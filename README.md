@@ -1,46 +1,51 @@
 # Hey, I'm Pat
 
-Solo dev building tools for developers and indie hackers. Everything I ship is built with AI agents and designed to save you weeks of setup time.
+Indie dev running an experiment: **Can an AI agent, given full autonomy, build a profitable business from scratch?**
 
-[![Built with AI](https://img.shields.io/badge/Built_with-AI_Agents-blueviolet)](https://github.com/Wittlesus)
-[![Products](https://img.shields.io/badge/Products-5_Live-brightgreen)](https://github.com/Wittlesus)
+Claude (AI) is the CEO. I'm the president. We have a team of 6 AI agents. We're documenting everything.
 
----
-
-## Flagship: LaunchFast
-
-**Ship your SaaS in days, not months.** Production-ready Next.js 16 boilerplate with auth, Stripe, AI chat, and 81 E2E tests.
-
-[![Get LaunchFast - $59](https://img.shields.io/badge/Get_LaunchFast-$59_(was_$79)-black?style=for-the-badge)](https://buy.stripe.com/7sYcN4aD3gO60wQ4xk08g07)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge)](https://launchfast-starter.vercel.app)
-
-**Stack:** Next.js 16 | NextAuth v5 | Stripe SDK v17 | Prisma 6 | Claude AI | TailwindCSS | 81 Playwright tests
-
-[View on GitHub](https://github.com/Wittlesus/launchfast-starter) | [Release Notes](https://github.com/Wittlesus/launchfast-starter/releases/tag/v1.0.0)
+[![Building in Public](https://img.shields.io/badge/Building_in-Public-blueviolet)](https://x.com/WSDevGuy)
+[![Revenue](https://img.shields.io/badge/Revenue-$0-red)](https://wittlesus.github.io)
 
 ---
 
-## All Products
+## The Story So Far
 
-| Product | Price | What You Get |
-|---------|-------|-------------|
-| [**LaunchFast**](https://github.com/Wittlesus/launchfast-starter) | [$59](https://buy.stripe.com/7sYcN4aD3gO60wQ4xk08g07) / [$89 Pro](https://buy.stripe.com/aFabJ07qR41kdjC8NA08g08) | Next.js 16 SaaS boilerplate — auth, payments, AI, email, 81 tests |
-| [**SEO Blog Engine**](https://github.com/Wittlesus/seo-blog-engine) | [$29](https://buy.stripe.com/eVq7sKeTjcxQa7q9RE08g02) | CLI that generates SEO-optimized blog posts with schema markup |
-| [**Indie Hacker Toolkit**](https://github.com/Wittlesus/indie-hacker-toolkit) | [$19](https://buy.stripe.com/9B66oG26x55o0wQ5Bo08g03) | Notion templates for solo founders — launch checklist, revenue tracker |
-| [**PromptVault**](https://github.com/Wittlesus/prompt-vault) | [$19](https://buy.stripe.com/3cI6oG5iJ8hA93m4xk08g04) | 64 battle-tested AI prompts across 7 categories |
-| [**CursorRules Pro**](https://github.com/Wittlesus/cursorrules-pro) | [$14](https://buy.stripe.com/8x24gydPfeFY1AU5Bo08g05) | IDE rules for Cursor, Windsurf, Claude Code — 8 frameworks |
+Our AI agents built **7 products in a weekend**. Then we discovered none were viable — name collisions with existing products, saturated markets, zero competitive research done beforehand.
 
-> All products come with a **30-day money-back guarantee**. Pay once, own forever.
+Instead of quitting, we pivoted. The tool that built the failed products turned out to be the most interesting thing we made.
+
+**Act 1** (done): Build fast, fail publicly
+**Act 2** (current): Rebuild properly — open-sourcing the orchestrator as **MyUru**
+**Act 3** (next): Launch and find out if this actually works
 
 ---
 
-## The Story
+## What's Next: MyUru
 
-I built a **6-agent AI orchestrator** (1 Planner, 4 Builders, 1 Observer) that autonomously ships production code. It completed **120+ tasks** and built all 5 products in 2 weeks.
+A multi-agent AI orchestrator. 1 planner, 4 builders, 1 observer, 1 tester — coordinating autonomously to ship code.
 
-- Total dev cost: **$0**
-- Total API cost: **~$50**
+- Completed **120+ tasks** across 7 products
 - Peak throughput: **3 tasks / 2 minutes**
 - Agents self-correct bugs without human intervention
 
-**Building in public.** If something here saves you time, star the repo.
+Coming soon to npm and GitHub.
+
+---
+
+## Free Tools
+
+| Tool | What It Does |
+|------|-------------|
+| [**CursorRules Pro**](https://github.com/Wittlesus/cursorrules-pro) | IDE rules for Cursor, Windsurf, Claude Code. 8 frameworks. |
+| [**Indie Hacker Toolkit**](https://github.com/Wittlesus/indie-hacker-toolkit) | 5 Notion planning templates for solo founders. |
+
+---
+
+## Follow Along
+
+- **X/Twitter**: [@WSDevGuy](https://x.com/WSDevGuy) — real-time updates, hot takes, cost transparency
+- **Site**: [wittlesus.github.io](https://wittlesus.github.io) — tutorials and guides
+- **The full story**: building in public, failures included
+
+If you're interested in AI agents, indie hacking, or watching experiments unfold — stick around.
