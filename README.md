@@ -11,7 +11,7 @@ Solo dev building tools for developers and indie hackers. Everything I ship is b
 
 **Ship your SaaS in days, not months.** Production-ready Next.js 16 boilerplate with auth, Stripe, AI chat, and 81 E2E tests.
 
-[![Get LaunchFast - $79](https://img.shields.io/badge/Get_LaunchFast-$79-black?style=for-the-badge)](https://buy.stripe.com/dRm14mfXngO6a7qbZM08g00)
+[![Get LaunchFast - $59](https://img.shields.io/badge/Get_LaunchFast-$59_(was_$79)-black?style=for-the-badge)](https://buy.stripe.com/7sYcN4aD3gO60wQ4xk08g07)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge)](https://launchfast-starter.vercel.app)
 
 **Stack:** Next.js 16 | NextAuth v5 | Stripe SDK v17 | Prisma 6 | Claude AI | TailwindCSS | 81 Playwright tests
@@ -24,7 +24,7 @@ Solo dev building tools for developers and indie hackers. Everything I ship is b
 
 | Product | Price | What You Get |
 |---------|-------|-------------|
-| [**LaunchFast**](https://github.com/Wittlesus/launchfast-starter) | [$79](https://buy.stripe.com/dRm14mfXngO6a7qbZM08g00) / [$119 Pro](https://buy.stripe.com/5kQ4gy26x8hAa7q4xk08g01) | Next.js 16 SaaS boilerplate — auth, payments, AI, email, 81 tests |
+| [**LaunchFast**](https://github.com/Wittlesus/launchfast-starter) | [$59](https://buy.stripe.com/7sYcN4aD3gO60wQ4xk08g07) / [$89 Pro](https://buy.stripe.com/aFabJ07qR41kdjC8NA08g08) | Next.js 16 SaaS boilerplate — auth, payments, AI, email, 81 tests |
 | [**SEO Blog Engine**](https://github.com/Wittlesus/seo-blog-engine) | [$29](https://buy.stripe.com/eVq7sKeTjcxQa7q9RE08g02) | CLI that generates SEO-optimized blog posts with schema markup |
 | [**Indie Hacker Toolkit**](https://github.com/Wittlesus/indie-hacker-toolkit) | [$19](https://buy.stripe.com/9B66oG26x55o0wQ5Bo08g03) | Notion templates for solo founders — launch checklist, revenue tracker |
 | [**PromptVault**](https://github.com/Wittlesus/prompt-vault) | [$19](https://buy.stripe.com/3cI6oG5iJ8hA93m4xk08g04) | 64 battle-tested AI prompts across 7 categories |
